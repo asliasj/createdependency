@@ -6,7 +6,6 @@ import android.widget.Toast;
 
 import com.e.myutils.mymath;
 
-import static com.createdependency.Main2Activity.bib;
 
 public class MainActivity extends AppCompatActivity {
 
